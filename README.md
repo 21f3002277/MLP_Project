@@ -8,3 +8,9 @@
 
 - **VIKASH PRASAD**  
 - **Roll Number** - 21f3002277
+
+### Models Used for the Prediction are:
+-  Logistic Regression Model
+-  Random Forest Classification Model
+-  Extreme Gradient Boosting (XGB) Model
+-  Light Gradient Boosting Machine (LGBM) Model
