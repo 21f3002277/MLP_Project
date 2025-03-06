@@ -14,3 +14,5 @@
 -  Random Forest Classification Model
 -  Extreme Gradient Boosting (XGB) Model
 -  Light Gradient Boosting Machine (LGBM) Model
+
+### Final Model is LGBM Model With Accuracy **64.33%**
